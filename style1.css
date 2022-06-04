@@ -1,0 +1,286 @@
+.end{
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+	
+}
+.top1{
+	position: fixed;
+	right: 10px;
+	bottom: 50px;
+
+}
+.top{
+	width: 100%;
+	background: #2C3E50;
+}
+.header{
+	width: 100%;
+	height: 200px;
+
+	background: #1abc9c;
+}
+
+.Personal{
+	background: #2C3E50;
+	position: relative;
+	height: 45px;
+	left: 850px;
+	top: 20%;
+	color: whitesmoke;
+	font-size: 20px;
+	border-color: #2C3E50;
+}
+.Personal:hover{
+	color: #1abc9c;
+	transform: scale(1.05);
+}
+.photos{
+	background: #2C3E50;
+	position: relative;
+	height: 45px;
+	left: 550px;
+	top: 20%;
+	color: whitesmoke;
+	font-size: 20px;
+	border-color: #2C3E50;
+}
+
+.photos:hover{
+	color: #1abc9c;
+	transform: scale(1.05);
+}
+.contact{
+	background: #2C3E50;
+	position: relative;
+	height: 45px;
+	left: 780px;
+	top: 20%;
+	color: whitesmoke;
+	font-size: 20px;
+	border-color: #2C3E50;
+}
+.contact:hover{
+	color: #1abc9c;
+	transform: scale(1.05);
+}
+.back{
+	color: whitesmoke;
+	position: relative;
+	top: 15px;
+}
+
+.header h1{
+	position: relative;
+	left: 40.5%;
+	top: 40px;
+	font-size: 50px;
+	color: whitesmoke;
+
+}
+
+.back{
+	 size: 100px;
+}
+
+.star{
+	color: whitesmoke;
+	background-size: contain;
+	width: 20px;
+	height: 20px;
+	position: relative;
+	left: 48.3%;
+	bottom: 50%;
+}
+
+.line1{
+	/*border-collapse: 1px solid whitesmoke;*/
+	
+	width: 60px;
+	position: relative;
+	top: 30px;
+	left: -7%;
+	background: whitesmoke;
+	
+
+}
+
+.line2{
+	/*size: 20px;*/
+	width: 60px;
+	position: relative;
+	top: 20px;
+	left: 5%;
+	background: whitesmoke;
+}
+
+.photos1 h1{
+	position: relative;
+	left: 560px;
+	font-size: 40px;
+	color: #2C3E50;
+}
+
+.line3{
+	width: 60px;
+	position: relative;
+	top: -5px;
+	left: -90px;
+	background: #2C3E50;
+
+}
+
+.line4{
+	width: 60px;
+	position: relative;
+	top: -16px;
+	left: 5%;
+	background: #2C3E50;
+}
+
+.star2{
+	color: #2C3E50;
+	background-size: contain;
+	width: 20px;
+	height: 20px;
+	position: relative;
+	left: 48%;
+	top: -35px;
+}
+
+.photo5{
+	height: 500px;
+	width: 290px;
+	position: relative;
+	left: 250px;
+
+}
+
+.photo4{
+	height: 250px;
+	width: 190px;
+	position: relative;
+	left: 280px;
+}
+
+.photo6{
+	height: 250px;
+	width: 210px;
+	position: relative;
+	left: 76px;
+	top: -250px;
+}
+
+.photo1{
+	height: 400px;
+	width: 290px;
+	position: relative;
+	left: 100px;
+	top: -100px;
+}
+.photo1:hover, .photo4:hover, .photo6:hover, .photo5:hover{
+	transform: scale(1.1);
+}
+.personal_info{
+	height: 50%;
+	background: #1abc9c;
+	height: 400px;
+	width: 100%;
+}
+.personal_info h1{
+	position: relative;
+	left: 430px;
+	color: whitesmoke;
+	font-size: 40px;
+	top: 20px;
+}
+
+.line5{
+	width: 60px;
+	position: relative;
+	top: 13px;
+	left: -90px;
+	background: whitesmoke;
+}
+
+.line6{
+	width: 60px;
+	position: relative;
+	top: 1px;
+	left: 5%;
+	background: whitesmoke;
+}
+
+.star3{
+	color: whitesmoke;
+	background-size: contain;
+	width: 20px;
+	height: 20px;
+	position: relative;
+	left: 48%;
+	top: -20px;
+}
+
+.personal_info p{
+	font-size: 25px;
+	position: relative;
+	left: 100px;
+	color: #2C3E50;
+}
+
+.contact_me h1{
+	position: relative;
+	left: 510px;
+	font-size: 40px;
+	color: #2C3E50;
+}
+
+.line7{
+	width: 60px;
+	position: relative;
+	top: -5px;
+	left: -90px;
+	background: #2C3E50;
+}
+
+.line8{
+	width: 60px;
+	position: relative;
+	top: -16px;
+	left: 5%;
+	background: #2C3E50;
+}
+
+.star4{
+	color: #2C3E50;
+	background-size: contain;
+	width: 20px;
+	height: 20px;
+	position: relative;
+	left: 48%;
+	top: -37px;
+}
+
+form{
+	position: relative;
+	left: 450px;
+	font-size: 30px;
+	size: 40px;
+}
+
+form button{
+	width: 100px;
+	height: 30px;
+}
+form input{
+	height: 30px;
+}
+
+.connect{
+	position: fixed;
+	bottom: 10px;
+	left: 10px;
+	height: 200px;
+	width: 100px;
+}
+
